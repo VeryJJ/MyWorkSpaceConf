@@ -1,0 +1,9 @@
+#git command
+alias gpr="git pull -r"
+alias gpo="git push origin "
+alias gc="git checkout "
+alias gs="git status"
+alias gm="git commit -m "
+alias gad="git add ."
+alias re="history | tail -n50"
+alias gl="git log --pretty='%h %Cblue%cr %C(yellow)%cn %Cred%s'"
